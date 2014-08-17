@@ -61,14 +61,14 @@ header {
 header h1 {
   font-weight: bold;
   letter-spacing: -1px;
-  font-size: 48px;
+  font-size: 72px;
   color: #303030;
   line-height: 1.2;
 }
 
 header h2 {
   letter-spacing: -1px;
-  font-size: 24px;
+  font-size: 48px;
   color: #aaa;
   font-weight: normal;
   line-height: 1.3;
