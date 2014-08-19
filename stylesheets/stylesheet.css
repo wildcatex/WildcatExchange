@@ -136,16 +136,6 @@ strong {
 img {
   position: relative;
   margin: 0 auto;
-  max-width: 739px;
-  padding: 5px;
-  margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
-
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
 p img {
@@ -348,13 +338,12 @@ Full-Width Styles
   padding-top: 10px;
     padding-right: 5px;
 }
-/*
+
 .iphone {
-    width: 1280px;
-    height: 1280px;
-    background: url(../images/Iphone5.png) no-repeat;
+    width: 256px;
+    height: 256px;
 }
-*/
+
 /*
 .zip_download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top left;
